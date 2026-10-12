@@ -4,7 +4,7 @@ services:
     runtime: node
     plan: free
     buildCommand: npm install
-    startCommand: node bot-telegram-nodeJS.js
+    startCommand:
     envVars:
       - key: TELEGRAM_TOKEN
         sync: false
