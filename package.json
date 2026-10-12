@@ -1,0 +1,19 @@
+{
+  "name": "bot-risco-telegram",
+  "version": "1.0.0",
+  "description": "Bot Telegram com Claude API para análise de risco",
+  "main": "bot-telegram-nodeJS.js",
+  "scripts": {
+    "start": "node bot-telegram-nodeJS.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "@anthropic-ai/sdk": "^0.16.1"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  }
+}
