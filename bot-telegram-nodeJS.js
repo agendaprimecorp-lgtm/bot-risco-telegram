@@ -62,7 +62,7 @@ app.post('/webhook', async (req, res) => {
         [
           {
             text: '💼 Agendar Consulta ($200 USD)',
-            url: 'https://calendly.com/seu-calendly-link',
+            url: 'https://www.calendinho.com/rodrigo-franca-viana',
           },
         ],
       ],
