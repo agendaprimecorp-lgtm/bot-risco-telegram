@@ -1,4 +1,4 @@
-const express = require('express');
+⏳✅❌⏳ó⚠️ãóãêéÁã💼🤖á⏳✅const express = require('express');
 const axios = require('axios');
 require('dotenv').config();
 const Anthropic = require('@anthropic-ai/sdk');
